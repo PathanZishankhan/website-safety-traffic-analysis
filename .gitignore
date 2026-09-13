@@ -1,0 +1,17 @@
+# MySQL and local database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor and temporary files
+.vscode/
+*.tmp
+*.log
+
+# Python temporary files, if any
+__pycache__/
+*.pyc
